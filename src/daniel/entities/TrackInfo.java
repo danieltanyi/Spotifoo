@@ -6,6 +6,10 @@ package daniel.entities;
  * An entity object providing mapping to the records as found in assets\data.txt file. Since it would provide
  * assistance with indexing information on the tracks available so implementing data structure on it
  * to search fast is utmost important.
+ *
+ * @author Daniel Tanyi Tarh
+ * @version 17.0.2
+ * @date 2022.07.29
  */
 
 public class TrackInfo {
