@@ -1,1 +1,1 @@
-# Spotifoo Player
+# Spotifoo Player ( Tietoevry + Novare ) Individual Project
