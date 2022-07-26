@@ -30,6 +30,157 @@ Now I need to read this files to display the list of songs and other features.
 	- Messages.java     ( Contains application messages and used as constants throughout codebase )
 	- Option.java 	    ( Contains enum constants for the main menu terminal )
 
+# USER MANUAL
+This is the user manual for Spotifoo Application.
+# 1.Main Menu
+When the user starts the application, main menu is displayed:
+
+Welcome to the Spotifoo music player!
+
+Main menu options
+
+[1] Songs
+
+[2] Artists
+
+[3] Albums
+
+[4] Genres
+
+[5] Search
+
+Choose an option and press enter:
+
+# Songs menu
+
+Welcome to the Spotifoo music player!
+
+Songs menu
+
+[1] Andy you are a star
+
+[2] Change your mind
+
+[3] Despacito
+
+[4] El muro
+
+[5] Forbidden love
+
+[6] Frozen
+
+[7] Gasolina
+
+[8] I love New York
+
+[9] Jump
+
+[10] Little star
+
+[11] Lo que pasÃ³ pasÃ³
+
+[12] Night train
+
+[13] Paradise city
+
+[14] Since i don't have you
+
+[15] Sola
+
+[16] This love
+
+[17] Welcome to New York
+
+[18] Welcome to the family
+
+[19] Welcome to the jungle
+
+[20] When we where young
+
+[0] Back to main menu
+
+Choose an option and press enter:
+
+# Artists available 
+
+Welcome to the Spotifoo music player!
+
+Artists available
+
+[1] The Killers
+
+[2] Luis Fonsi
+
+[3] Daddy Yankee
+
+[4] Madonna
+
+[5] Guns and Roses
+
+[6] Taylor Swift
+
+[7] Avenged Sevenfold
+
+[0] Back to main menu
+
+Choose an option and press enter:
+
+# Albums available
+
+Welcome to the Spotifoo music player!
+
+Albums available
+
+[1] Hot fuss
+
+[2] Vida
+
+[3] Barrio fino
+
+[4] Confessions on the dance floor
+
+[5] Ray of light
+
+[6] Appetite for destruction
+
+[7] The spaghetti incident
+
+[8] 1989
+
+[9] Nightmare
+
+[10] Sam's town
+
+[0] Back to main menu
+
+Choose an option and press enter:
+
+# Genres available
+
+Welcome to the Spotifoo music player!
+
+Genres available
+
+[1] rock
+
+[2] reggaeton
+
+[3] pop
+
+[4] metal
+
+[0] Back to main menu
+
+Choose an option and press enter:
+
+# Search for songs
+
+Welcome to the Spotifoo music player!
+
+Search for a song
+
+Write the name of a song and press enter :
+
 
 
 
