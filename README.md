@@ -32,7 +32,7 @@ Now I need to read this files to display the list of songs and other features.
 
 # USER MANUAL
 This is the user manual for Spotifoo Application.
-# 1.Main Menu
+# 1. Main Menu
 When the user starts the application, main menu is displayed:
 
 Welcome to the Spotifoo music player!
@@ -51,7 +51,7 @@ Main menu options
 
 Choose an option and press enter:
 
-# Songs menu
+# 2. Songs menu
 
 Welcome to the Spotifoo music player!
 
@@ -101,7 +101,7 @@ Songs menu
 
 Choose an option and press enter:
 
-# Artists available 
+# 3. Artists available 
 
 Welcome to the Spotifoo music player!
 
@@ -125,7 +125,7 @@ Artists available
 
 Choose an option and press enter:
 
-# Albums available
+# 4. Albums available
 
 Welcome to the Spotifoo music player!
 
@@ -155,7 +155,7 @@ Albums available
 
 Choose an option and press enter:
 
-# Genres available
+# 5. Genres available
 
 Welcome to the Spotifoo music player!
 
@@ -173,7 +173,7 @@ Genres available
 
 Choose an option and press enter:
 
-# Search for songs
+# 6. Search for songs
 
 Welcome to the Spotifoo music player!
 
