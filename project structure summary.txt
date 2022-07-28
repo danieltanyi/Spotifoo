@@ -1,0 +1,18 @@
+"Project Structure" Summary : 
+----------------------------
+
+Main.java   	( View UI components ) 
+		( Main java program in CLASSPATH which executes the program responsible for displaying menus on terminal )
+
+Mapper.java		( logic for those views )
+		( Contains business logic separate from menu views which are part of the Main file. Views and logic have been kept separate to ease modularity and less coupling. It also maintains the in-memory data structure to store the information on tracks to help with indexing as the data continues to grow which is not limited to any little data as in data.txt )
+
+daniel.entities\
+	- TrackInfo.java 	( Object for the data.txt mapped to each record - Title, Artist, Album, Genre, Music, Artwork  )
+
+daniel.utils\
+	- Helper.java 		( Contains utility methods used to segregate the system-wide resources like clear screen, print, play song  )
+	- Messages.java     ( Contains application messages and used as constants throughout codebase )
+	- Option.java 	    ( Contains enum constants for the main menu terminal )
+
+
